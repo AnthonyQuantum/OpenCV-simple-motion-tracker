@@ -1,1 +1,3 @@
-# OpenCV-simple-motion-tracker
+# Simple motion tracker
+
+![Screenshot](./screenshot.png)
